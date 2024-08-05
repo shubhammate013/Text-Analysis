@@ -15,8 +15,8 @@ We have a dataset consisting of articles and their corresponding titles. Each ar
 
 The goal is to perform comprehensive text analysis on the provided dataset of articles and titles. Specifically, we aim to achieve the following objectives:
 
-    _Create word clouds to visualize the most frequent words in the titles.
-    _Analyze the sentiment expressed in the articles to understand the overall tone or sentiment of the content.
-    _Extract named entities such as organizations, locations, and other relevant information from the articles.
-    _Apply topic modeling techniques to uncover latent topics within the articles. 
+    Create word clouds to visualize the most frequent words in the titles.
+    Analyze the sentiment expressed in the articles to understand the overall tone or sentiment of the content.
+    Extract named entities such as organizations, locations, and other relevant information from the articles.
+    Apply topic modeling techniques to uncover latent topics within the articles. 
 
